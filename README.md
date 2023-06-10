@@ -1,5 +1,3 @@
-### Hi there 👋 My name is Sean. I'm a recent graduate of Burlington Code Academy's Software Developer Bootcamp. Here you will find repositories of some of my projects for the course as well as my Capstone project in which my team created a database application for VSAC (Vermont Student Assistance Corp).
-
 <!--
 **SeanMPower/SeanMPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
